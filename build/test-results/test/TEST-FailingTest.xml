@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FailingTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-08T19:47:47" hostname="DAVI" time="0.073">
+  <properties/>
+  <testcase name="test1" classname="FailingTest" time="0.07"/>
+  <testcase name="test2" classname="FailingTest" time="0.0"/>
+  <testcase name="test3" classname="FailingTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
